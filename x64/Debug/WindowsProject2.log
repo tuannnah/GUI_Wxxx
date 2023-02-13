@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1151,9): error MSB4030: "2001" is an invalid value for the "LinkStatus" parameter of the "Link" task. The "LinkStatus" parameter is of type "System.Boolean".
